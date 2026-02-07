@@ -41,6 +41,8 @@ Each step depends on the output of the previous step.
 
 ## Step-wise Description of the Pipeline
 
+Before running the pipeline, create an empty `results/` directory:
+
 ### Step 1: Sequence Retrieval
 An unknown or hypothetical biological sequence is provided in FASTA format.
 
